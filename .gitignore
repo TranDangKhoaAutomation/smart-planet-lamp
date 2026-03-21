@@ -1,0 +1,27 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.idea/
+.vscode/
+
+# Arduino / ESP build artifacts
+*.bin
+*.elf
+*.hex
+*.map
+*.eep
+*.lst
+*.o
+*.a
+*.d
+*.tmp
+*.bak
+
+# Build folders
+build/
+dist/
+out/
+.arduinoIDE/
+.sketches/
