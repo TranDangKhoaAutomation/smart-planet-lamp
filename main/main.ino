@@ -1,6 +1,6 @@
 /*
-  Project: DuoiLedRGB
-  File: DuoiLedRGB.ino
+  Project: smart-planet-lamp
+  File: main.ino
   Description:
     Smart LED bedside controller for ESP8266/ESP32. The sketch drives a
     NeoPixel strip, reads an ultrasonic sensor to adjust brightness, uses an
