@@ -7,7 +7,7 @@
     ambient light input to gate output, and exposes a WiFi web UI for control
     and WiFi setup.
 
-  Copyright (c) 2026 TranDangKhoaTechnology.
+  Copyright (c) 2026 TranDangKhoaAutomation.
   All rights reserved.
 */
 

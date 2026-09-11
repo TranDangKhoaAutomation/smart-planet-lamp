@@ -126,7 +126,7 @@ Trong tương lai, dự án có thể mở rộng thêm:
 
 ## Bản quyền
 
-Copyright (c) 2026 TranDangKhoaTechnology.  
+Copyright (c) 2026 TranDangKhoaAutomation.  
 All rights reserved.
 
 Xem thêm trong file `LICENSE`.
